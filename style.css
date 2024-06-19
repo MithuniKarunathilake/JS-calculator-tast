@@ -1,0 +1,24 @@
+*{
+    margin: 20;
+    padding: 20;
+}
+
+.table{
+    margin: 10px 0 40px;
+    background-color: rgb(209, 133, 236);
+    color: #000101;
+    border: 8px solid rgb(190, 33, 229);
+    align-items: center;
+    width: 320px;
+    border-radius: 18px;
+    text-align: center;
+    padding: 20px;
+    
+}
+
+.table style01{
+    
+}
+
+
+
